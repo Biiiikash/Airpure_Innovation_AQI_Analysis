@@ -46,7 +46,7 @@ Conduct both primary and secondary AQI analysis to determine market fit for air 
 
 ## 📄 PDF Dashboard View
 A full PDF export of the dashboard is available here:  
-[📂 View Dashboard PDF](dashboard.pdf)
+[📂 View Dashboard PDF](Dashboard.pdf)
 
 ---
 
