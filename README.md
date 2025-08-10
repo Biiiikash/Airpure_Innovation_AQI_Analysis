@@ -52,7 +52,7 @@ A full PDF export of the dashboard is available here:
 
 ## 🔗 Live Dashboard
 View the interactive dashboard hosted on Power BI Service:  
-[🌐 Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZTk5YTY3ZDEtNjkxMy00N2VlLWEwYjItZDBmY2UxYjYzMDJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[🌐 Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiN2RlZTI5ODUtYTk1YS00MWQ2LTgyNTItZTIwMTk5M2I0NzBlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
